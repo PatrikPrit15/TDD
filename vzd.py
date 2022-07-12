@@ -1,3 +1,5 @@
+#"C:\Program Files\Python38\python.exe" -m pytest C:\Users\pritr\Dropbox\PC\Desktop\zaloha\IT\ucenie\TDD\vzd.py
+
 def e(x1,y1,x2,y2):
     return (abs(x1-x2)**2+abs(y1-y2)**2)**0.5
 def m(x1,y1,x2,y2):
